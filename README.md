@@ -5,7 +5,7 @@
 https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo
 Потом скачиваем Pydroid 3 
 https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
-Выберем проводник находим папку которую вы установили и извлечь в папку download
+Выберем проводник находим zip файл который вы установили и извлечь в папку download
 Открываем Pydroid 3
 Ждём установку...
 Нажимаем на три полоски и нажимаем Pip
